@@ -23,6 +23,7 @@ locals {
     env      = local.env_name
     tag_test = local.tag01
     Tag1 = "Terraform-Cloud-Demo1"
+    tag2 = "notification-test"
   }
 
 }
