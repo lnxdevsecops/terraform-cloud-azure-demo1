@@ -22,6 +22,7 @@ locals {
     cloud    = local.cloud_name
     env      = local.env_name
     tag_test = local.tag01
+    Tag1 = "Terraform-Cloud-Demo1"
   }
 
 }
